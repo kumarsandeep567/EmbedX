@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+tensorflow[and-cuda]
+gensim
+indic-nlp-library
+matplotlib
